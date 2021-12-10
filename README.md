@@ -1,4 +1,8 @@
-# 超簡單一鍵推播 591 租屋資訊完全免 Coding－透過 Google Sheet 與 LINE Notify 
+# 超簡單一鍵推播 591 租屋資訊完全免 Coding－透過 Google Sheet 與 Discord webhook
+
+### [感謝it鐵人幫](https://ithelp.ithome.com.tw/articles/10255573)
+
+### 2021/12/10: 由於個人比較喜歡用discord功能,將notification綁在discord webhook上
 
 ### 2021/09/08 更新：
 感謝邦友 [flier268](https://ithelp.ithome.com.tw/users/20132779/profile), [travis668](https://github.com/travis668) 幫忙修復因 591 改版導致抓不到 cover image 的問題！
